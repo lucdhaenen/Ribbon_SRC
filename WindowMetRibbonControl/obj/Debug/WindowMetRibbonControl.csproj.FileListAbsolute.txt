@@ -1,0 +1,30 @@
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\bin\Debug\WindowMetRibbonControl.exe.config
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\bin\Debug\WindowMetRibbonControl.exe
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\bin\Debug\WindowMetRibbonControl.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.csprojResolveAssemblyReference.cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbon.baml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbon.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\App.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl_MarkupCompile.cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.g.resources
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.Properties.Resources.resources
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.csproj.GenerateResource.Cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.exe
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.pdb
+C:\Users\Luc.Dhaenen\Documents\Visual Studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luc.Dhaenen\Documents\Visual Studio 2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl_MarkupCompile.lref
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\bin\Debug\WindowMetRibbonControl.exe.config
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.exe
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.pdb
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\bin\Debug\WindowMetRibbonControl.exe
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\bin\Debug\WindowMetRibbonControl.pdb
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.csprojResolveAssemblyReference.cache
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbon.g.cs
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\App.g.cs
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl_MarkupCompile.cache
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl_MarkupCompile.lref
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbon.baml
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.g.resources
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.Properties.Resources.resources
+H:\Visual Studio\2013\Projects\WindowMetRibbonControl\WindowMetRibbonControl\obj\Debug\WindowMetRibbonControl.csproj.GenerateResource.Cache
